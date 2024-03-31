@@ -1,0 +1,18 @@
+URL=https://www.cineverse.com/
+title=Your Ticket to a World of Entertainment Delights | On-Demand Content & Free Linear Channels
+
+
+
+dashboardPageLocatoor
+=====================
+Home=//*[text()='Home']
+HomeBanner=//*[@class="black-shadow"]
+HomeBannerWidth=1525
+HomeBannerHeight=444
+HomeCompanyLogo=//*[@id="header-nav"]/div/div[1]/a/span/span/img
+
+livetv=//*[text()='Live TV']
+Movies=//*[text()='Movies']
+showsButton=//*[text()='Shows']
+genresButton=//*[text()='Genres']
+Watchlist=//*[text()='Watchlists']
